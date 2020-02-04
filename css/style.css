@@ -76,7 +76,7 @@ a, a:focus {
 
 .buttons {
     display: flex;
-    margin-left: 20rem;
+    justify-content: center;
 }
 
 .dropdown {
