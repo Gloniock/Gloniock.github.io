@@ -76,8 +76,7 @@ a, a:focus {
 
 .buttons {
     display: grid;
-    grid-template-columns: 200px 200px 200px;
-    margin-left: 5rem;
+    margin-left: auto;
 }
 
 .dropdown {
