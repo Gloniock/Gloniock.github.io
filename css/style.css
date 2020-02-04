@@ -75,14 +75,14 @@ a, a:focus {
 }
 
 .buttons {
-    display: grid;
-    grid-template-columns: 200px 200px 200px;
+    display: grid;    
     margin-left: 5rem;
 }
 
 .dropdown {
     position: relative;
-    display: inline-block;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
 }
 
 .dropdown:hover .dropdown-content {
@@ -98,3 +98,4 @@ a, a:focus {
     position: absolute;
     z-index: 1;
 }
+
