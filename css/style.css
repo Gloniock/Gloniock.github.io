@@ -73,6 +73,13 @@ a, a:focus {
 .qiwi {
     background-image: url("../qiwi.png");
 }
+.profile {
+  background-image: url("../profile.png");
+}
+.translate{
+  background-image: url("../translations.png");
+}
+
 
 .buttons {
     display: block;
